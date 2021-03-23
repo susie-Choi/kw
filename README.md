@@ -1,2 +1,4 @@
-# Data-Structure
-Kwangwoon University Data Structure Course
+# Kwangwoon University Toy project
++ Data Structure Course
++ Algorithms Course
++ Artificial Intelligence Course
