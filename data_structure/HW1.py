@@ -17,5 +17,3 @@ def reversed(count):
     reversed(count)
 
 reversed(count)
-
-#issue
