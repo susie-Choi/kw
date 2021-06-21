@@ -10,7 +10,7 @@
 + Artificial Intelligence Course
   > Python, Tensorflow
 + Data Mining Course
-  > Language & Framework : Python, R, Tensorflow, Pytorch
+  > Language & Framework : Python, R, Tensorflow, Pytorch  
   > Task : NLP(Natural Language Processing) & Time series forecasting  
   <br>
   
